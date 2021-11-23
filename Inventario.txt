@@ -1,0 +1,5 @@
+1-barras
+2-discos
+3-agarres
+4-magnesio
+5-presas
